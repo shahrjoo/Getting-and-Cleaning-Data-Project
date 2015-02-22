@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Project
- ##Getting and Cleaning Data Course Project
+##Getting and Cleaning Data Course Project
 # How Scripts works
 * this scrips needs data.table and reshape2 packages
 * the source data must be in a folder named 'UCI HAR Dataset' the root folder
